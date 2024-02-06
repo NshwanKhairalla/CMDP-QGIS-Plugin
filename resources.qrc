@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/CMDP" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
