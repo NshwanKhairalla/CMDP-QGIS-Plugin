@@ -12,8 +12,8 @@ email=nshwan.khairalla@gmail.com
 
 about=QGIS plugin for importing and analysing CAMS (Copernicus Atmosphere Monitoring Service) data.
 
-tracker=https://github.com/NshwanKhairalla/CAMS_plugin/issues
-repository=https://github.com/NshwanKhairalla/CAMS_plugin
+tracker=https://github.com/NshwanKhairalla/CMDP-QGIS-Plugin/issues
+repository=https://github.com/NshwanKhairalla/CMDP-QGIS-Plugin.git
 # End of mandatory metadata
 
 # Recommended items:
